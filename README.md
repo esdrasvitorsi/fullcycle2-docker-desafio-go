@@ -1,2 +1,7 @@
-# fullcycle2-docker-desafio-go
-Repositório com o código da solução do desafio Go do módulo Docker, referente ao curso Full Cycle 2
+Olá! 
+
+Essa é a solução do desafio Go referênte ao módulo Docker do curso Full Cycle 2!
+
+Para rodar a imagem que está no Docker Hub, pode-se usar o seguinte comando:
+
+docker run esdrasvitor/codeeducation
